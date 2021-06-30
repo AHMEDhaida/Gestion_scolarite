@@ -1,0 +1,35 @@
+table tr{
+background-color:#4CAF50;
+color:white;
+border-radius:8px;
+
+
+}
+table {
+width:40%;
+margin:auto;
+
+}
+tr{
+text-align:center;
+	
+
+}
+th:hover {
+  background-color: #f4a460;
+}
+td:hover {
+  background-color: #555;
+  
+}
+body {font-family: Arial;
+background-color:white;
+}
+h3{
+text-align:center;
+}
+th{border-radius:15px;
+height:35px;
+}
+td{border-radius:15px;}
+table{border:none;}
